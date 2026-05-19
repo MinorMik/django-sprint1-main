@@ -152,4 +152,5 @@ media/
 # Testing
 build_tests/
 yap_testing
-html/img/img/
+../html/img/img/
+/html/
